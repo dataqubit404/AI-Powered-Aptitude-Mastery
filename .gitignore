@@ -1,0 +1,59 @@
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*$py.class
+
+# =========================
+# VIRTUAL ENVIRONMENTS
+# =========================
+venv/
+env/
+.venv/
+ENV/
+
+# =========================
+# ENVIRONMENT VARIABLES / SECRETS
+# =========================
+.env
+*.env
+secrets.toml
+
+# =========================
+# IDE / EDITOR
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# LOG FILES
+# =========================
+*.log
+
+# =========================
+# JUPYTER (if you ever use it)
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# BUILD / CACHE
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# OPTIONAL (If you don’t want to push large datasets)
+# =========================
+# data/
