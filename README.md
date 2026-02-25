@@ -72,6 +72,25 @@ IQ score is normalized between **70 – 140**.
 
 ---
 
+## 📸 Demo Screenshots
+
+### 🏁 Challenge Setup
+<p align="center">
+  <img src="assets/demo/setup_page.png" width="850">
+</p>
+
+### 🧠 Live Quiz Arena
+<p align="center">
+  <img src="assets/demo/quiz_page.png" width="850">
+</p>
+
+### 📊 Performance Dashboard
+<p align="center">
+  <img src="assets/demo/result_page.png" width="850">
+</p>
+
+---
+
 ## 🏗️ Project Structure (Current + Planned)
 
 ```bash
