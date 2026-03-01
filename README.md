@@ -6,6 +6,14 @@ An AI-powered interactive quiz platform that evaluates logical ability, technica
 Built with <b>Python</b> and <b>Streamlit</b>, featuring dynamic question generation and performance analytics.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python">
+  <img src="https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas">
+  <img src="https://img.shields.io/badge/Plotly-Interactive%20Visualization-3F4F75?logo=plotly">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+</p>
+
 ---
 
 ## 🚀 Project Overview
