@@ -1,6 +1,6 @@
-<h1 align="center">🧠 AI Aptitude Mastery</h1>
+<h1 align="center">🧠 AI Aptitude Mastery(Vesrion1)</h1>
 
-## 🚀 Live Demo :https://aptitude-mastery.streamlit.app/
+ 🚀 Live Demo :https://aptitude-mastery.streamlit.app/
 
 <p align="center">
 An AI-powered interactive quiz platform that evaluates logical ability, technical knowledge, and aptitude skills — and predicts an estimated IQ score based on user performance.
