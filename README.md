@@ -1,4 +1,4 @@
-<h1 align="center">🧠 AI Aptitude Mastery(Vesrion1)</h1>
+<h1 align="center">🧠 AI Aptitude Mastery(Version1)</h1>
 
  🚀 Live Demo :https://aptitude-mastery.streamlit.app/
 
