@@ -18,10 +18,7 @@ def load_css():
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 load_css()
-logo_container = st.container()
 
-with logo_container:
-    st.image("assets/logo.png", width=140)
 # =========================
 # SESSION STATE DEFAULTS
 # =========================
